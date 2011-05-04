@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="4.2.5" timestamp="2011-05-04T10:59:28.437">
+<file name="H:\working\GM\Java\TaskQueue\taskqueue-rabbitmq-delay\src\main\java\cn\gamemate\taskqueue\rabbitmq\delay\Main.java">
+<violation beginline="20" endline="20" begincolumn="62" endcolumn="78" rule="FinalFieldCouldBeStatic" ruleset="Design Rules" package="cn.gamemate.taskqueue.rabbitmq.delay" class="DelayService" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#FinalFieldCouldBeStatic" priority="4">
+This final field could be made static
+</violation>
+<violation beginline="21" endline="21" begincolumn="43" endcolumn="49" rule="FinalFieldCouldBeStatic" ruleset="Design Rules" package="cn.gamemate.taskqueue.rabbitmq.delay" class="DelayService" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#FinalFieldCouldBeStatic" priority="4">
+This final field could be made static
+</violation>
+<violation beginline="25" endline="25" begincolumn="47" endcolumn="62" rule="FinalFieldCouldBeStatic" ruleset="Design Rules" package="cn.gamemate.taskqueue.rabbitmq.delay" class="DelayService" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#FinalFieldCouldBeStatic" priority="4">
+This final field could be made static
+</violation>
+</file>
+</pmd>
